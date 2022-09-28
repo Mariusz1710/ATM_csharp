@@ -1,0 +1,7 @@
+C:\Users\mbiel\source\repos\C#\ATM-new\ATM-new\ATM-new\bin\Debug\ATM-new.exe.config
+C:\Users\mbiel\source\repos\C#\ATM-new\ATM-new\ATM-new\bin\Debug\ATM-new.exe
+C:\Users\mbiel\source\repos\C#\ATM-new\ATM-new\ATM-new\bin\Debug\ATM-new.pdb
+C:\Users\mbiel\source\repos\C#\ATM-new\ATM-new\ATM-new\obj\Debug\ATM-new.csproj.CoreCompileInputs.cache
+C:\Users\mbiel\source\repos\C#\ATM-new\ATM-new\ATM-new\obj\Debug\ATM-new.exe
+C:\Users\mbiel\source\repos\C#\ATM-new\ATM-new\ATM-new\obj\Debug\ATM-new.pdb
+C:\Users\mbiel\source\repos\C#\ATM-new\ATM-new\ATM-new\obj\Debug\ATM-new.csproj.AssemblyReference.cache
